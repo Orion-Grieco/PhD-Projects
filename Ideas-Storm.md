@@ -1,5 +1,5 @@
 # Ideas
-## This is where I'm putting all the interesting beans of information that I come accross during my internet searches for neat and awesome ideas to make real (like Detroit: Become Human, except instead of an android gaining sentience, I'm trying to make my projects go from ideas, into real, tangible product, with a real-world impact),
+## This is where I'm putting all the interesting beans of information that I come across during my internet searches for neat and awesome ideas to make real (like Detroit: Become Human, except instead of an android gaining sentience, I'm trying to make my projects go from ideas, into real, tangible product, with a real-world impact),
 
 ### Notes!
 - [Eimt.edu.eu Reasearch Ideas for PhD Students](https://www.eimt.edu.eu/phd-research-topics-in-computer-science-2025)
